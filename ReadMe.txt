@@ -1,16 +1,9 @@
-Responsive HTML5 website template for developers
+A simple static personal homepage hosted on AWS.
 
-Theme name:
+Syncing:
 =======================================================================
-Developer
-
-Theme version:
-=======================================================================
-v1.4
-
-Release Date:
-=======================================================================
-05 May 2015
+"""chmod +x sync.sh
+./sync.sh"""
 
 Author: 
 =======================================================================
