@@ -1,1 +1,1 @@
-aws s3 sync . s3://buckleytech.co.uk/
+aws s3 sync web/ s3://buckleytech.co.uk/
